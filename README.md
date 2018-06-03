@@ -5,3 +5,5 @@ Cutscenes are difficult to orchestrate when there's a combination of animations,
 This cutscene system manages concurrency across any number of user-defined cutscene events while providing a cutscene
 language that is both human-readable and godot-compatable. See narrator/Dialog.gd for an implementation using the provided
 dialog system.
+
+See the documentation in cutscenes/Cutscene.gd for full usage information.
